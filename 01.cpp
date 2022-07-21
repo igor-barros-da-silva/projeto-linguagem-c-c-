@@ -11,7 +11,7 @@ int main() {
 	printf("Digite uma string:");
 	gets(STR);
 	
-	printf("Digite outra string");
+	printf("Digite outra string:");
 	gets(STR1);
 	
 	if(strcmp(STR, STR1)) {

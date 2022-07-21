@@ -12,7 +12,7 @@ int main() {
 	printf("Digite uma string:");
 	gets(STR);
 	
-	printf("Digite outra string");
+	printf("Digite outra string:");
 	gets(STR1);
 	
 	x = strstr(STR, STR1);
