@@ -12,7 +12,7 @@ int main() {
 	gets(STR);
 	
 	printf("Digite outra string");
-	gets(STR);
+	gets(STR1);
 	
 	if(strcmp(STR, STR1)) {
 		printf("Sao iguais.");
